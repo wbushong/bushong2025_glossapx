@@ -1,0 +1,81 @@
+sentence frame,biasing context,biasing context distance,sentence,# syllables distance (from after target word to first syllable of context word),Used in Experiments 1-2,Used in Experiments 3-4
+1,tent,short,"When the tent in the forest was well camouflaged, we began our hike.",3,Y,Y
+1,tent,long,"When the tent was noticed in the forest, we stopped to rest.",6,Y,Y
+1,dent,short,"When the dent in the fender was well camouflaged, we sold the car.",3,Y,Y
+1,dent,long,"When the dent was noticed in the fender, we sold the car.",6,Y,Y
+2,tent,short,"Because the tent in John's backpack had a few holes, he had to patch it.",3,Y,Y
+2,tent,long,"Because the tent that was found in John's backpack had a few holes, he had to patch it.",6,Y,Y
+2,dent,short,"Because the dent in John's bumper was very small, he decided not to fix it.",3,Y,Y
+2,dent,long,"Because the dent that was found in John's bumper was very small, he decided not to fix it.",6,Y,Y
+3,tent,short,"After the tent in the campgrounds collapsed, we went to a hotel.",3,Y,Y
+3,tent,long,"After the tent Sue had found in the campgrounds collapsed, we went to a hotel.",6,Y,Y
+3,dent,short,"After the dent in the teapot was noticed, we threw it away.",3,Y,Y
+3,dent,long,"After the dent Sue had found in the teapot was noticed, we threw it away.",6,Y,Y
+4,tent,short,"Since the tent John had bought was too small, the wedding guests had to stand in the rain.",3,Y,Y
+4,tent,long,"Since the tent John had mistakenly bought was too small, the wedding guests had to stand in the rain.",7,Y,Y
+4,dent,short,"Since the dent John had caused was very large, he had to have it fixed.",3,Y,Y
+4,dent,long,"Since the dent John had mistakenly caused was very large, he had to have it fixed.",7,Y,Y
+5,tent,short,"Since the tent in the woods was so large, it slept the whole family.",3,Y,Y
+5,tent,long,"Since the tent is so deep in the woods, it is difficult to find.",6,Y,Y
+5,dent,short,"Since the dent in the bike was so large, we took it to the shop.",3,Y,Y
+5,dent,long,"Since the dent is so deep in the bike, the frame has rusted through.",6,Y,Y
+6,tent,short,"Because the tent on the mountain was so hard to find, we had to point it out.",3,Y,Y
+6,tent,long,"Because the tent was so hard to find on the mountain, we had to point it out.",8,Y,Y
+6,dent,short,"Because the dent on the pickup was so hard to find, we had to point it out.",3,Y,Y
+6,dent,long,"Because the dent was so hard to find on the pickup, we had to point it out.",8,Y,Y
+7,tent,short,"When the tent at the campground was repaired, it was ready to be used.",3,Y,Y
+7,tent,long,"When the tent was repaired at the campground, it was ready to be used.",6,Y,Y
+7,dent,short,"When the dent at the bodyshop was repaired, we received the final bill.",3,Y,Y
+7,dent,long,"When the dent was repaired by the bodyshop, we received the final bill.",6,Y,Y
+8,tent,short,"Since the tent at the camp was removed, we were able to leave.",3,N,Y
+8,tent,long,"Since the tent was removed from the camp, we were able to leave.",6,N,Y
+8,dent,short,"Since the dent in the bucket was removed, it has stopped leaking.",3,N,Y
+8,dent,long,"Since the dent was removed from the bucket, it has stopped leaking.",6,N,Y
+9,tent,short,"After seeing the tent on the hill yesterday, we decided to camp at the bottom.",3,N,Y
+9,tent,long,"After seeing the tent yesterday on the hill, we (chose) to camp at the bottom.",6,N,Y
+9,dent,short,"After seeing the dent on the fender yesterday, we managed to fix it.",3,N,Y
+9,dent,long,"After seeing the dent yesterday on the fender, we managed to fix it.",6,N,Y
+10,tent,short,"Since the tent in the trees was hard to find, no one noticed us.",3,N,Y
+10,tent,long,"Since the tent was hard to find in the trees, no one (found) us.",7,N,Y
+10,dent,short,"Since the dent in the door was hard to find, we never fixed it.",3,N,Y
+10,dent,long,"Since the dent was hard to find in the door, we never fixed it.",7,N,Y
+11,tent,short,"Once the tent had been  set up successfully, we made camp for the night.",3,N,Y
+11,tent,long,"Once the tent had been successfully set up, we made camp for the night.",7,N,Y
+11,dent,short,"Once the dent in the wall had been repaired successfully, we were relieved.",3,N,Y
+11,dent,long,"Once the dent had been repaired in the wall successfully, we were relieved.",7,N,Y
+12,tent,short,"Although the tent could weather the storm, it was ugly.",2,N,Y
+12,tent,long,"Although the tent was ugly, it could weather the storm.",6,N,Y
+12,dent,short,"Although the dent was bending the door, it looked fine.",2,N,Y
+12,dent,long,"Although the dent looked fine, it was bending the door.",5,N,Y
+13,tent,short,"Although the tent in the store seemed large, it wasn't big enough for us.",3,N,Y
+13,tent,long,"Although the tent seemed large when we saw it in the store, it wasn't big enough for us.",9,N,Y
+13,dent,short,"Although the dent in the car seemed large, it wasn't that bad.",3,N,Y
+13,dent,long,"Although the dent seemed large when we saw it in the car, it wasn't that bad.",9,N,Y
+15,tent,short,"Since the tent was quite sturdy, the family ended up camping a lot.",3,N,Y
+15,tent,long,"Since the tent the family got was quite sturdy, they ended up camping a lot.",7,N,Y
+15,dent,short,"Since the dent in the car was quite serious, the family needed to get it repaired.",3,N,Y
+15,dent,long,"Since the dent the family got in the car was quite serious, it needed to be repaired.",7,N,Y
+16,tent,short,"Although the tent got all packed up quickly, it was very difficult.",3,N,Y
+16,tent,long,"Although the tent was difficult to pack up, we did it quickly.",6,N,Y
+16,dent,short,"Although the dent got all fixed up quickly, it was very difficult.",3,N,Y
+16,dent,long,"Although the dent was difficult to fix up, we did it quickly.",6,N,Y
+17,tent,short,"Since the tent was quite flimsy, it didn't weather the storm.",3,N,Y
+17,tent,long,"Since the tent was incredibly flimsy, it didn't weather the storm.",6,N,Y
+17,dent,short,"Since the dent was quite deep, it was hard to fix.",3,N,Y
+17,dent,long,"Since the dent extended very deep, it was hard to fix.",6,N,Y
+18,tent,short,"After the tent on the peak was spotted, the mountaineers were relieved.",3,N,Y
+18,tent,long,"After the tent was spotted on the peak by the mountaineers, they were relieved.",6,N,Y
+18,dent,short,"After the dent on the truck was spotted, the driver was worried.",3,N,Y
+18,dent,long,"After the dent was spotted on the truck, the driver was worried.",6,N,Y
+19,tent,short,"Although our tent wasn't sturdy enough to handle the wind, it was well concealed.",3,N,Y
+19,tent,long,"Although our tent was well concealed, it wasn't sturdy enough to handle the wind.",9,N,Y
+19,dent,short,"Although the dent ruined the metal of the car, we concealed it well.",4,N,Y
+19,dent,long,"Although the dent was well concealed, it ruined the metal of the car.",9,N,Y
+20,tent,short,"Although the tent in the forest looked like it had been there for a while, it was new.",3,N,Y
+20,tent,long,"Although the tent looked like it had been in the forest for a while, it was new.",8,N,Y
+20,dent,short,"Although the dent in the trumpet looked like it had been there for a while, it was new.",3,N,Y
+20,dent,long,"Although the dent looked like it had been in the trumpet for a while, it was new.",8,N,Y
+21,tent,short,"Although the tent in the campsite was easy to repair, we didn't have the right tools.",3,N,Y
+21,tent,long,"Although the tent was easy to repair at the campsite, we didn't have the right tools.",9,N,Y
+21,dent,short,"Although the dent in the car was easy to repair, the mechanic didn't have the right tools.",3,N,Y
+21,dent,long,"Although the dent was easy to repair for the mechanic, he didn't have the right tools.",9,N,Y
