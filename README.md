@@ -12,8 +12,10 @@ Written supplementary information to the paper. This file is entitled "Supplemen
 - acousticPoints.csv contains temporal information for each stimulus recording (temporal location of target word and subsequent context), which is used for excluding observations where participants responded before hearing biasing subsequent context
 - stimuli.csv contains transcriptions of all stimulus sentences and indicates which items were used in which experiments
 
-## Data 
+## Data
 - data/ contains the empirical data for Experiments 1-4 plus the norming study for the stimuli used in Experiments 3-4. Some preprocessing has already been done on these data (anonymizing participants, etc.)
+
+## Saved Model Fits
 - models/ contains the fitted models for each model & experiment, generated from fit_models.R
 - models_individuals/ contains the fitted models for each individual participant, generated from fit_models_individuals.R
 - model_comparisons/ contains the pairwise comparisons between each model for each experiment and each individual participant
@@ -26,7 +28,7 @@ Written supplementary information to the paper. This file is entitled "Supplemen
 - visualize_model_predictions.R creates the qualitative model predictions in the main text
 - model_fit_figures.R generates the quantitative pairwise comparisons for each model, and makes the fit figures (Figure 6 in main text, Figures S3-6 in SI)
 - model_fit_figures_individuals.R generates the quantitative pairwise comparisons for each individual subject, and makes corresponding fit figures (Figure 7 in main text)
-- If you want to reproduce the analyses of this project, run fit_models.R followed by model_fit_figures.R
+- If you want to reproduce the main analyses of this project, run fit_models.R followed by model_fit_figures.R
 
 ## Figures 
 - figures/ contains all figures in the main text & SI
