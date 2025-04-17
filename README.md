@@ -33,3 +33,5 @@ Written supplementary information to the paper. This file is entitled "Supplemen
 ## Figures 
 - figures/ contains all figures in the main text & SI
 - model_fit_figures/ contains more detailed model fit figures for each model & experiment
+
+[![DOI](https://zenodo.org/badge/968090653.svg)](https://doi.org/10.5281/zenodo.15237588)
